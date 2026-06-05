@@ -6,29 +6,29 @@
 
 | Preguntas | Respuestas |
 |:----------|:-----------|
-| Nombre y Rol | Dale una identidad y define su ocupación (ej. Ana, la Diseñadora Freelance) |
-| Demográficos | Indica datos demográficos básicos, tales como edad, ubicación, nivel de ingresos o contexto laboral | 
-| Objetivos y Motivaciones | ¿Qué valor busca obtener de una visualización de datos? ¿Qué intenta aprender? | 
-| Puntos de dolor (Pain points) | ¿Cuáles son sus principales frustraciones, problemas o barreras actuales? |
+| Nombre y Rol | Matías, ingeniero y bombero |
+| Demográficos | 27 años, vive en villarrica, trabaja online | 
+| Objetivos y Motivaciones | quiere conocer otros cuarteles de bombero para informarse | 
+| Puntos de dolor (Pain points) | no tiene claridad de los limites de su jurisdicción y que cuarteles pueden llegar en apoyo |
 
 
 #### Un extremo
 
 | Preguntas | Respuestas |
 |:----------|:-----------|
-| Nombre y Rol | Dale una identidad y define su ocupación (ej. Ana, la Diseñadora Freelance) |
-| Demográficos | Indica datos demográficos básicos, tales como edad, ubicación, nivel de ingresos o contexto laboral | 
-| Objetivos y Motivaciones | ¿Qué valor busca obtener de una visualización de datos? ¿Qué intenta aprender? | 
-| Puntos de dolor (Pain points) | ¿Cuáles son sus principales frustraciones, problemas o barreras actuales? |
+| Nombre y Rol | Gabriela, abodgada y madre |
+| Demográficos | 34 años, vive en la reina, trabaja en buin | 
+| Objetivos y Motivaciones | quiere saber donde están los bomberos caso tenga una emergencia en la casa o el trabajo | 
+| Puntos de dolor (Pain points) | no sabe qué compañia atiende en su sector |
 
 #### Otro extremo
 
 | Preguntas | Respuestas |
 |:----------|:-----------|
-| Nombre y Rol | Dale una identidad y define su ocupación (ej. Ana, la Diseñadora Freelance) |
-| Demográficos | Indica datos demográficos básicos, tales como edad, ubicación, nivel de ingresos o contexto laboral | 
-| Objetivos y Motivaciones | ¿Qué valor busca obtener de una visualización de datos? ¿Qué intenta aprender? | 
-| Puntos de dolor (Pain points) | ¿Cuáles son sus principales frustraciones, problemas o barreras actuales? |
+| Nombre y Rol | Pipe, escolar, brigadier |
+| Demográficos | 15 años, vive en providencia | 
+| Objetivos y Motivaciones | Le gusta saber sobre cuarteles y carros que ve en la ciudad | 
+| Puntos de dolor (Pain points) | no encuentra la información que busca y no sabe a quién preguntar |
 
 - - - - - 
 
@@ -41,6 +41,8 @@ Indique las bases de datos que utilizará.
 ### Tercero, qué: 
 
 Describa lo que ofrecerá, acaso una infografía o un dashboard. 
+
+geolocalización de cuarteles y territorio de cada cuerpo de bomberos
 
 Agregue a continuación 3 antecedentes y un mooadboard de referentes. 
 
