@@ -35,7 +35,7 @@
 ### Segundo, con qué:
 
 Indique las bases de datos que utilizará. 
-https://datospararesiliencia.cl/dataset.xhtml?persistentId=doi:10.71578/JPZDO4 
+https://datospararesiliencia.cl/dataset.xhtml?persistentId=doi:10.71578/JPZDO4 https://datos.gob.cl/dataset/categoria-geoespacial-instalaciones-y-edificaciones/resource/942164c9-6538-478b-b73c-2672691b36c9?inner_span=True 
 
 - - - - - -
 
