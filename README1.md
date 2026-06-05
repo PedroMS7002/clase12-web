@@ -35,6 +35,7 @@
 ### Segundo, con qué:
 
 Indique las bases de datos que utilizará. 
+https://datospararesiliencia.cl/dataset.xhtml?persistentId=doi:10.71578/JPZDO4 
 
 - - - - - -
 
